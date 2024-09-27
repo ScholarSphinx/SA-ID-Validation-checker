@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\IDValidation\bin\Debug\IDValidation.exe.config
+C:\Users\User\source\repos\IDValidation\bin\Debug\IDValidation.exe
+C:\Users\User\source\repos\IDValidation\bin\Debug\IDValidation.pdb
+C:\Users\User\source\repos\IDValidation\obj\Debug\IDValidation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IDValidation\obj\Debug\IDValidation.Form1.resources
+C:\Users\User\source\repos\IDValidation\obj\Debug\IDValidation.Properties.Resources.resources
+C:\Users\User\source\repos\IDValidation\obj\Debug\IDValidation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IDValidation\obj\Debug\IDValidation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IDValidation\obj\Debug\IDValidation.exe
+C:\Users\User\source\repos\IDValidation\obj\Debug\IDValidation.pdb
